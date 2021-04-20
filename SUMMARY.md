@@ -1,4 +1,8 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Renormalization](README.md)
+
+## The Casimir effect
+
+* [The Casimir effect](the-casimir-effect/the-casimir-effect.md)
 
