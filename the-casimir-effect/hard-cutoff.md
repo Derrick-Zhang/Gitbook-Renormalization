@@ -50,7 +50,7 @@ $$
 E(a) = \frac{\pi}{4}\left[ \Lambda^2 a + \Lambda - 2\Lambda x - \frac{x(1-x)}{a}\right]~.
 $$
 
-We will also take $$\Lambda L$$ to be an integer. Then $$\lfloor \Lambda L - \Lambda a \rfloor = \Lambda L - \lceil \Lambda a \rceil$$.  For simplicity, let us also assume $$\Lambda a$$ is not an integer, which lets us use $$\lceil \Lambda a \rceil = \lfloor \Lambda a \rfloor +1$$. Then,
+We will also take $$\Lambda L$$ to be an integer. Then $$\lfloor \Lambda L - \Lambda a \rfloor = \Lambda L - \lceil \Lambda a \rceil$$. For simplicity, let us also assume $$\Lambda a$$ is not an integer, which lets us use $$\lceil \Lambda a \rceil = \lfloor \Lambda a \rfloor +1$$. Then,
 
 $$
 \begin{align}

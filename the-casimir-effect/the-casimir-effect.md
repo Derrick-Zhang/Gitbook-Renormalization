@@ -24,7 +24,7 @@ $$
 F = - \frac{dE}{da}~.
 $$
 
-We have a natural low-energy cutoff $$|\vec k| > \frac1a$$. This does not cut off the high-energy divergence at large $$k$$; we will show that there will be a finite residual dependence on $$a $$that will give an observable force, called the **Casimir force**.
+We have a natural low-energy cutoff $$|\vec k| > \frac1a$$. This does not cut off the high-energy divergence at large $$k$$; we will show that there will be a finite residual dependence on $$a$$that will give an observable force, called the **Casimir force**.
 
 {% hint style="info" %}
 If we change $$a$$, then the energy inside and outside the box will change. We can put in a third wall on our box far away, at$$L \gg a$$. Then the zero-point energy outside the box is independent of $$a$$, so we can drop it.
