@@ -17,4 +17,5 @@
 * [Integration parameters](regularization/integration-parameters.md)
 * [Wick rotations](regularization/wick-rotations.md)
 * [Dimensional regularization](regularization/dimensional-regularization.md)
+* [Other regularization schemes](regularization/other-regularization-schemes.md)
 
