@@ -25,6 +25,24 @@ $$
 Schwinger parameters are based on the following mathematical identities, which hold when $${\rm Im}(A) > 0$$,
 
 $$
-\frac i A = \int_0 ^\infty ds \, e^{is A}~,
+\frac i A = \int_0 ^\infty ds \, e^{is A}~,\\
+\left(\frac iA\right)^2 = \int_0^\infty s ds \, e^{isA}~.
+$$
+
+You can derive further identities by taking additional derivatives with respect to $$A$$. Also, we have
+
+$$
+\frac{1}{AB} = - \int_0^\infty ds \int_0^\infty dt e^{is A + i t B}
+$$
+
+when $${\rm Im}(A) > 0$$ and $${\rm Im}(B)>0$$.
+
+Other useful related identities are
+
+$$
+\begin{align}
+\frac{1}{A^n B^m} &= \frac{\Gamma(n+m)}{\Gamma(n)\Gamma(m)} \int_0^\infty ds \frac{s^{m-1}}{(A+Bs)^{n+m}}\\
+\frac{1}{AB} &= \int_0^\infty ds \frac{1}{(A+Bs)^2}
+\end{align}
 $$
 

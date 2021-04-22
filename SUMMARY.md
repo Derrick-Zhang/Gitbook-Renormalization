@@ -10,8 +10,11 @@
   * [Heat-kernel regularization](the-casimir-effect/regulator-independence/heat-kernel-regularization.md)
   * [Other regulators](the-casimir-effect/regulator-independence/other-regulators.md)
   * [Regulator-independent derivation](the-casimir-effect/regulator-independence/regulator-independent-derivation.md)
+  * [Counterterms](the-casimir-effect/regulator-independence/counterterms.md)
 
 ## Regularization
 
 * [Integration parameters](regularization/integration-parameters.md)
+* [Wick rotations](regularization/wick-rotations.md)
+* [Dimensional regularization](regularization/dimensional-regularization.md)
 
