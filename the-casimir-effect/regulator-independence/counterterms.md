@@ -1,6 +1,6 @@
 # Counterterms
 
-In the above analysis, we not only took $$\omega_{\rm max} \to \infty$$but also $$ L \to \infty$$. Why did we need this third boundary at $$r = L$$at all? Let us suppose we did not have it, and just calculated the energy inside the box of size $$r$$. Then we would get
+In the above analysis, we not only took $$\omega_{\rm max} \to \infty$$but also $$L \to \infty$$. Why did we need this third boundary at $$r = L$$at all? Let us suppose we did not have it, and just calculated the energy inside the box of size $$r$$. Then we would get
 
 $$
 E(r) = \frac \pi 2 r \Lambda^2 - \frac{\pi}{24 r}+ \cdots.
@@ -17,7 +17,7 @@ $$
 \mathcal L = \mathcal L' + \rho_c~,
 $$
 
-where $$\rho_c$$is constant. This new term gives an infinite contribution in the action. Now if we choose $$\rho_c = - \frac \pi 2 \Lambda^2$$, the new term exactly cancels the $$\frac \pi 2 r \Lambda^2 $$term we found using the heat-kernel regulator.
+where $$\rho_c$$is constant. This new term gives an infinite contribution in the action. Now if we choose $$\rho_c = - \frac \pi 2 \Lambda^2$$, the new term exactly cancels the $$\frac \pi 2 r \Lambda^2$$term we found using the heat-kernel regulator.
 
 {% hint style="info" %}
 In the $$\zeta$$-function regulator, where no divergent terms come out of the calculation, we could take $$\rho_c = 0$$.

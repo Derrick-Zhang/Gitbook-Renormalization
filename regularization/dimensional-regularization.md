@@ -1,6 +1,6 @@
 # Dimensional regularization
 
-### Scalar integrals
+## Scalar integrals
 
 Instead of considering integrals in 4 dimensional spacetime, we will consider in general $$d$$-dimensional spacetime. The angular volume is given by
 
@@ -41,7 +41,7 @@ $$
 = \int e^{-u-v} u^{a-1} v^{b-1} du dv~.
 $$
 
-Now make change of variables, $$u = z t $$and $$v = z(1-t)$$,
+Now make change of variables, $$u = z t$$and $$v = z(1-t)$$,
 
 $$
 \Gamma(a)\Gamma(b) = \int_0^\infty dz \, e^{-z} z^{a + b -1} \int_0^1 dt \, t^{a-1} (1-t)^{b-1}\\
@@ -62,7 +62,7 @@ $$
 
 Dimensionally regulated versions of divergent integrals will have poles at $$d = 4$$. Therefore, we often expand $$d = 4 - \epsilon$$ and drop terms of order $$\epsilon$$.
 
-### Field dimensions
+## Field dimensions
 
 For the action to be dimensionless, the Lagrangian density should have mass dimension $$d$$. For example, in QED, the Lagrangian is
 
@@ -98,7 +98,7 @@ $$
 \int \frac{d^4 k}{(2\pi)^4} \frac{e^2}{(k^2 - \Delta + i\epsilon)^2} \to \mu^{4-d} \frac{i e^2}{(4\pi)^{d/2}} \Gamma\left(2- \frac{d}{2}\right) \left(\frac{1}{\Delta}\right)^{2 - \frac{d}{2}}~.
 $$
 
-Now letting $$ d= 4- \epsilon$$ we expand this around $$\epsilon = 0$$and get
+Now letting $$d= 4- \epsilon$$ we expand this around $$\epsilon = 0$$and get
 
 $$
 \frac{ie^2}{16 \pi^2} \left(\frac2 \epsilon - \gamma_E + \ln \frac{4\pi \mu^2}{\Delta}\right) = \frac{ie^2}{16 \pi^2} \left(\frac2 \epsilon + \ln \frac{4\pi \mu^2 e^{-\gamma_E}}{\Delta}\right)
@@ -116,7 +116,7 @@ $$
 \int \frac{d^4k}{ (2\pi)^4 } \frac{e^2}{(k^2 - \Delta+ i \epsilon)^2} \to \frac{i e^2}{16 \pi^2} \left(\frac{2}{\epsilon} + \ln\frac{\tilde \mu^2}{\Delta} + \cdots\right)
 $$
 
-### $$k^\mu$$ integrals
+## $$k^\mu$$ integrals
 
 We will often have integrals with factors of momenta, such as $$k^\mu k^\nu$$, in the numerator,
 

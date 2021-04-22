@@ -6,7 +6,7 @@ $$
 \int \frac{d^4k}{(2\pi)^4} \frac{1}{(k^2 - \Delta + i \epsilon)^n}~.
 $$
 
-Assuming $$\Delta > 0$$, the integral has poles at $$k_0 = \sqrt{\vec k^2 + \Delta} - i \epsilon$$and $$k_0 = - \sqrt{\vec k^2 + \Delta} + i \epsilon$$. Since the poles are in the top-left and bottom-right quadrants of the $$k_0$$complex plane. We can rotate the contour, $$k0 \to i k_0$$, so that $$ k^2 \to -k_0^2 - \vec k^2 = - k^2_E$$, where $$k_E^2 = k_0^2 + \vec k^2$$is the Euclidean momentum. This is known as a **Wick rotation**.
+Assuming $$\Delta > 0$$, the integral has poles at $$k_0 = \sqrt{\vec k^2 + \Delta} - i \epsilon$$and $$k_0 = - \sqrt{\vec k^2 + \Delta} + i \epsilon$$. Since the poles are in the top-left and bottom-right quadrants of the $$k_0$$complex plane. We can rotate the contour, $$k0 \to i k_0$$, so that $$k^2 \to -k_0^2 - \vec k^2 = - k^2_E$$, where $$k_E^2 = k_0^2 + \vec k^2$$is the Euclidean momentum. This is known as a **Wick rotation**.
 
 {% hint style="info" %}
 After the wick rotation, the $$i\epsilon$$ will no longer play a role an we can just set $$\epsilon = 0$$
@@ -27,6 +27,4 @@ $$
 & = \frac{-i}{32 \pi^2 \Delta}~.
 \end{align}
 $$
-
-
 
